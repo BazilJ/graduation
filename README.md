@@ -1,3 +1,3 @@
 # ide projek saya
 
-website chatbot untuk perubahan iklim
+discord bot untuk perubahan iklim
