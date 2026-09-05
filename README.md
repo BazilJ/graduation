@@ -1,3 +1,3 @@
 # ide projek saya
 
-discord bot untuk perubahan iklim
+discord bot untuk perubahan iklim & masalah lingkungan
